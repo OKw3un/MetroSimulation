@@ -19,4 +19,12 @@ Kullanım
 
 3. Rotaları Hesaplayın
 En Az Aktarmalı Rota: en_az_aktarma_bul(baslangic_id, hedef_id) fonksiyonu, iki istasyon arasında en az aktarma ile ulaşılacak rotayı döndürür.
+
 En Hızlı Rota: en_hizli_rota_bul(baslangic_id, hedef_id) fonksiyonu, iki istasyon arasında en hızlı rotayı (en kısa süreyi) döndürür.
+
+Kurulum
+Python 3.x yüklü olmalıdır.
+
+Projeyi klonlayın veya indirin.
+
+Uygulamayı başlatmak için Python dosyasını çalıştırın.
